@@ -3,7 +3,7 @@
 
 This is the repository for the manuscript: 
 
-Denton, K.K., Ram, Y., and Feldman, M.W. (In press.) Conditions that favour cumulative cultural evolution. <i>Philosophical Transactions of the Royal Society B.</i>
+Denton, K.K., Ram, Y., and Feldman, M.W. (2023). Conditions that favour cumulative cultural evolution. <i>Philosophical Transactions of the Royal Society B</i>, 378(1872): 20210400
 
 ### License 
 
